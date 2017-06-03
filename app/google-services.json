@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20637999393",
+    "firebase_url": "https://kentellus-37dda.firebaseio.com",
+    "project_id": "kentellus-37dda",
+    "storage_bucket": "kentellus-37dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20637999393:android:d93258f3bff3c267",
+        "android_client_info": {
+          "package_name": "com.harinder.kentellus1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20637999393-lcscq1squehim6v9squlmc02d8kqqdkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harinder.kentellus1",
+            "certificate_hash": "d194d19a83c7b41319a1dce1796b197ba3650096"
+          }
+        },
+        {
+          "client_id": "20637999393-a71o9c0qi1agbm1lh5demnsouek7dghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAer8BuI5HNuOcuqtXz-tvNa6gT2QzYrTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20637999393-a71o9c0qi1agbm1lh5demnsouek7dghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
